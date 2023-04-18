@@ -33,10 +33,6 @@
   <a href="#memo-license">License</a>
 </p>
 
-<p align="center">
-  <img alt="Print" src="https://res.cloudinary.com/dionbiancha/image/upload/v1679441819/Design_sem_nome_1_ufhl8q.gif">
-</p>
-
 ## :computer: Technologies
 
 This project was developed with the following technologies:
